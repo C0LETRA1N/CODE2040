@@ -1,6 +1,4 @@
 import requests
-import json
-
 
 url = 'http://challenge.code2040.org/api/prefix'
 dictionary = {"token": "f9ac431a86df26c7ad79ddaf8a1cf05f"}
